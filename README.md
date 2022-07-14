@@ -1,3 +1,3 @@
 # PhotoEffectCreator
 
-To run the code just open the file and change the path of the images.
+To see the assignment results download / open Original.jpg, REWORKED_PHOTO.gif and Assignment_Result_Sanmoy.pptx
